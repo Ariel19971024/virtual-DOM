@@ -18,5 +18,6 @@ In recent framework (react, vue, etc.) their are three steps to finish virtual i
 
 ## Reference 
 [video](https://www.youtube.com/watch?v=85gJMUEcnkc&list=PLo3rprOUyd4No6uFxJ5DU1J43U2x5EZZK&index=1&t=1403s)
+
 [document](https://medium.com/%E6%89%8B%E5%AF%AB%E7%AD%86%E8%A8%98/build-a-simple-virtual-dom-5cf12ccf379f)
 
