@@ -7,8 +7,11 @@ Implement  virtual DOM
 virtual DOM is actually a plain object, using diff algorithm to find different part then update to the DOM tree.
 In recent framework (react, vue, etc.) their are three steps to finish virtual implementation . 
 1.createRoot or createElement ( create a DOM object )
+
 2.Make a real element.
+
 3. Mount the element on the tree.
+
 ## How to Observe the change of DOM?
 1.Proxy(prefer)
 2.Timer
