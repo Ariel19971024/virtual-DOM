@@ -11,9 +11,10 @@ In recent framework (react, vue, etc.) their are three steps to finish virtual i
 
 2.Make a real element.
 
-3. Mount the element on the tree.
+3.Mount the element on the tree.
 
 ## How to Observe the change of DOM?
 1.Proxy(prefer)
+
 2.Timer
 
